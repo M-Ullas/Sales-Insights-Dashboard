@@ -1,5 +1,5 @@
 # Sales Insights Dashboard
-[ Download Dashboard](https://app.powerbi.com/groups/me/reports/1828f77f-2cee-41c3-a90e-fb369575c7c2/ReportSection?experience=power-bi)
+[ Download dashboard](https://app.powerbi.com/groups/me/reports/1828f77f-2cee-41c3-a90e-fb369575c7c2/ReportSection?experience=power-bi)
 
 ### Goal and Description
 Project Goal :- To create a visual representation of key sales metrics and trends to help sales managers and executives track performance, identify areas for improvement, and make data-driven decisions.
