@@ -38,7 +38,7 @@ https://app.powerbi.com/groups/me/reports/1828f77f-2cee-41c3-a90e-fb369575c7c2/R
 ### Business understanding
 This dashboard provides a high-level overview of a company's sales performance across regions, product categories, and time periods. It aims to identify trends and patterns for informed decision-making on resource allocation and sales improvement.
 
-This information can be used to make data-driven decisions about:-
+This information can be used to make data-driven decisions about :-
 
 - Resource Allocation :- Optimize resource allocation by focusing on high-performing regions, product categories, and customers for maximum return on investment.
 - Targeted Marketing :- Tailor marketing campaigns to specific customer segments and product categories.
