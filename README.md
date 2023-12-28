@@ -72,7 +72,7 @@ SQL Data Analysis :-
 
 Power BI Data Cleaning and ETL :-
 - Download and install Power BI, a free Microsoft product.
-- Launch Power BIConnect Power BI to your MySQL database.
+- Launch Power BI Connect Power BI to your MySQL database.
 - Employ Power Query for data transformation, data cleaning and ETL operations.
 - Use Power Query Editor to clean data: filter, convert currencies, and create custom/conditional columns.
 
@@ -134,7 +134,6 @@ The dashboard also includes a number of filters that allow users to drill down i
 Some potential challenges faced while creating this dashboard includes :-
 - Aligning with business goals :- Ensuring that the dashboard is aligned with the company's overall business goals can be important.
 - Interactivity :- Adding interactive features to a dashboard can make it more useful, but it can also add complexity to the development process.
-- User adoption :- Getting users to adopt and use a new dashboard can be challenging, especially if they are not familiar with BI tools.
 - User interface :- The dashboard needs to be easy to use for all stakeholders. The designer needs to make sure that the layout is intuitive and that the user can easily find the information they need.
 - Data cleaning - removing unwanted data & null values, filling blank values, formating and converting currency changed values.
 - Data accuracy :- Ensuring the accuracy and completeness of the data was crucial for reliable analysis.
