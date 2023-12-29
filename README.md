@@ -133,11 +133,10 @@ The dashboard also includes a number of filters that allow users to drill down i
 ### Challenges
 Some potential challenges faced while creating this dashboard includes :-
 - Aligning with business goals :- Ensuring that the dashboard is aligned with the company's overall business goals can be important.
-- Interactivity :- Adding interactive features to a dashboard can make it more useful, but it can also add complexity to the development process.
-- User interface :- The dashboard needs to be easy to use for all stakeholders. The designer needs to make sure that the layout is intuitive and that the user can easily find the information they need.
+- User interface :- The dashboard needs to be easy to use for all stakeholders. The design need to be sure that the layout is intuitive and that the user can easily find the information they need.
 - Data cleaning - removing unwanted data & null values, filling blank values, formating and converting currency changed values.
 - Data accuracy :- Ensuring the accuracy and completeness of the data was crucial for reliable analysis.
-- Data Visualization :- Choosing the right charts and graphs to effectively represent complex data and avoid overwhelming the user can be difficult.
+- Data Visualization :- Choosing the right charts and graphs to effectively represent complex data and avoid overwhelming the user was difficult.
 
 ### Future enhancements
 
